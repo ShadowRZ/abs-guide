@@ -26,14 +26,14 @@
    :file:`$HOME/.bash_logout`
      特定于用户的指令文件，能在每个用户的主目录里找到。只有交互 Shell 和用户脚本读取该文件。退出登录 (Bash) Shell 时，会执行该文档里的指令。
 
-.. rubric:: 登出文件
+.. rubric:: 数据文件
 
 .. glossary::
    
    :file:`/etc/passwd`
      系统上所有用户，及他们的身份、主目录、所属组、和默认 Shell 的列表。注意用户密码 *并没有* 被存储在这个文件 [#]_ ，而是加密存储在 :file:`/etc/shadow` 中。
 
-.. rubric:: 登出文件
+.. rubric:: 系统配置文件
 
 .. glossary::
    
