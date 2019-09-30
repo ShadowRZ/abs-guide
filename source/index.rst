@@ -16,10 +16,18 @@
    
    这是一个尚未完成的翻译文档。原地址：`Advanced Bash-Scripting Guide <https://www.tldp.org/LDP/abs/html/>`_
 
+   吾辈水平有限，欢迎指正。
+
+.. attention::
+   
+   这篇文档的一部分内容已经失效（如 SysV init 中的 initscripts）
+
+:download:`下载源码归档 <https://github.com/ShadowRZ/abs-guide/tarball/master>`
+
 .. toctree::
    :maxdepth: 2
    :caption: 目录
-   :numbered:
+   :numbered: 2
 
    01-introduction/index
 
