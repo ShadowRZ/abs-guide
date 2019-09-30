@@ -22,6 +22,13 @@
    
    这篇文档的一部分内容已经失效（如 SysV init 中的 initscripts）
 
+   由于吾辈英语知识只有高一级别，所以我只能尝试保证翻译的「信」和「达」，「雅」有点难。（明明还在借助机翻词典）
+
+.. attention::
+   
+   此前已有本文翻译计划：https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese
+
+
 :download:`下载源码归档 <https://github.com/ShadowRZ/abs-guide/tarball/master>`
 
 .. toctree::
