@@ -32,11 +32,19 @@
 :download:`下载源码归档 <https://github.com/ShadowRZ/abs-guide/tarball/master>`
 
 .. toctree::
-   :maxdepth: 2
-   :caption: 目录
-   :numbered: 2
+   :maxdepth: 1
+   :caption: 第一部分：介绍
+   :numbered: 1
+   :glob:
 
-   01-introduction/index
+   01-introduction/0*
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 附录
+   :glob:
+
+   99-appendix/*
 
 Indices and tables
 ==================
