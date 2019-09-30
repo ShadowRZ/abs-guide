@@ -7,3 +7,6 @@ version: 2
 
 sphinx:
   configuration: source/conf.py
+
+# All formats
+formats: all
